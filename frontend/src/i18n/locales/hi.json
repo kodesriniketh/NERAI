@@ -1,0 +1,56 @@
+{
+  "field": {
+    "reportHazard": "खतरा रिपोर्ट करें",
+    "capturePhoto": "फोटो कैप्चर / अपलोड करें",
+    "currentLocation": "वर्तमान स्थान",
+    "hazardType": "खतरे का प्रकार",
+    "severity": "गंभीरता",
+    "description": "विवरण",
+    "submitReport": "रिपोर्ट सबमिट करें",
+    "saveOffline": "ऑफ़लाइन सेव करें",
+    "pendingSync": "सिंक लंबित",
+    "synced": "सिंक हो गया",
+    "networkOffline": "नेटवर्क ऑफ़लाइन है",
+    "emergencyAlert": "आपातकालीन अलर्ट",
+    "reportSubmitted": "रिपोर्ट सबमिट हो गई",
+    "retry": "पुनः प्रयास करें"
+  },
+  "driver": {
+    "destination": "गंतव्य",
+    "currentRoute": "वर्तमान मार्ग",
+    "distanceRemaining": "शेष दूरी",
+    "estimatedArrival": "अनुमानित आगमन",
+    "routeClear": "मार्ग साफ़ है",
+    "routeChanged": "मार्ग बदल गया",
+    "alternativeRouteAvailable": "वैकल्पिक मार्ग उपलब्ध है",
+    "stopVehicle": "वाहन रोकें",
+    "proceedWithCaution": "सावधानी से आगे बढ़ें",
+    "routeRestored": "मार्ग बहाल",
+    "notifications": "सूचनाएं",
+    "noUnread": "कोई अपठित सूचना नहीं"
+  },
+  "hazard": {
+    "hazardAhead": "आगे खतरा है",
+    "slowDown": "धीमा करें",
+    "roadBlocked": "सड़क अवरुद्ध है",
+    "landslideAhead": "आगे भूस्खलन",
+    "floodedRoadAhead": "आगे जलमग्न सड़क",
+    "landslideDetail": "{{location}} के पास लगभग {{distance}} किमी आगे भूस्खलन की सूचना है।",
+    "routeRestricted": "मार्ग पर यातायात प्रभावित हो सकता है।",
+    "criticalRoadBlocked": "{{distance}} किमी आगे सड़क अवरुद्ध है। वर्तमान मार्ग पर आगे न बढ़ें।",
+    "routeRestoredDetail": "{{location}} के पास खतरा साफ हो गया है। मार्ग अब आवाजाही के लिए खुला है।",
+    "minorObstruction": "{{location}} के पास {{distance}} किमी आगे मामूली बाधा की सूचना है।"
+  },
+  "status": {
+    "ACTIVE": "सक्रिय",
+    "BLOCKED": "अवरुद्ध",
+    "RISKY": "जोखिमपूर्ण",
+    "RESOLVED": "हल हो गया",
+    "OPEN": "खुला",
+    "CRITICAL": "गंभीर"
+  },
+  "actions": {
+    "viewOnMap": "मानचित्र पर देखें",
+    "alternativeRoute": "वैकल्पिक मार्ग"
+  }
+}

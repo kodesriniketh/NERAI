@@ -1,0 +1,56 @@
+{
+  "field": {
+    "reportHazard": "Report Hazard",
+    "capturePhoto": "Capture / Upload Photo",
+    "currentLocation": "Current Location",
+    "hazardType": "Hazard Type",
+    "severity": "Severity",
+    "description": "Description",
+    "submitReport": "Submit Report",
+    "saveOffline": "Save Offline",
+    "pendingSync": "Pending Sync",
+    "synced": "Synced",
+    "networkOffline": "Network Offline",
+    "emergencyAlert": "Emergency Alert",
+    "reportSubmitted": "Report Submitted",
+    "retry": "Retry"
+  },
+  "driver": {
+    "destination": "Destination",
+    "currentRoute": "Current Route",
+    "distanceRemaining": "Distance Remaining",
+    "estimatedArrival": "Estimated Arrival",
+    "routeClear": "Route Clear",
+    "routeChanged": "Route Changed",
+    "alternativeRouteAvailable": "Alternative Route Available",
+    "stopVehicle": "Stop Vehicle",
+    "proceedWithCaution": "Proceed With Caution",
+    "routeRestored": "Route Restored",
+    "notifications": "Notifications",
+    "noUnread": "No unread notifications"
+  },
+  "hazard": {
+    "hazardAhead": "Hazard Ahead",
+    "slowDown": "Slow Down",
+    "roadBlocked": "Road Blocked",
+    "landslideAhead": "Landslide Ahead",
+    "floodedRoadAhead": "Flooded Road Ahead",
+    "landslideDetail": "Landslide reported {{distance}} km ahead near {{location}}.",
+    "routeRestricted": "Route movement may be restricted.",
+    "criticalRoadBlocked": "Road blocked {{distance}} km ahead. DO NOT CONTINUE ON CURRENT ROUTE.",
+    "routeRestoredDetail": "The hazard near {{location}} has been cleared. The route is now open for movement.",
+    "minorObstruction": "Minor obstruction reported {{distance}} km ahead near {{location}}."
+  },
+  "status": {
+    "ACTIVE": "ACTIVE",
+    "BLOCKED": "BLOCKED",
+    "RISKY": "RISKY",
+    "RESOLVED": "RESOLVED",
+    "OPEN": "OPEN",
+    "CRITICAL": "CRITICAL"
+  },
+  "actions": {
+    "viewOnMap": "View on Map",
+    "alternativeRoute": "Alternative Route"
+  }
+}

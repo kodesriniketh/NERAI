@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+  }
+}
+
+.truck-marker {
+  transition: transform 1s linear, margin 1s linear !important;
+}

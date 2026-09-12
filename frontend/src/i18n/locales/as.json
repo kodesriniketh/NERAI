@@ -1,0 +1,56 @@
+{
+  "field": {
+    "reportHazard": "বিপদৰ প্ৰতিবেদন দিয়ক",
+    "capturePhoto": "ফটো তোলক / আপল'ড কৰক",
+    "currentLocation": "বৰ্তমানৰ অৱস্থান",
+    "hazardType": "বিপদৰ প্ৰকাৰ",
+    "severity": "গুৰুত্ব",
+    "description": "বিৱৰণ",
+    "submitReport": "প্ৰতিবেদন দাখিল কৰক",
+    "saveOffline": "অফলাইন ছেভ কৰক",
+    "pendingSync": "ছিংক বাকী আছে",
+    "synced": "ছিংক কৰা হ'ল",
+    "networkOffline": "নেটৱৰ্ক অফলাইন",
+    "emergencyAlert": "জৰুৰীকালীন এলাৰ্ট",
+    "reportSubmitted": "প্ৰতিবেদন দাখিল কৰা হ'ল",
+    "retry": "পুনৰ চেষ্টা কৰক"
+  },
+  "driver": {
+    "destination": "গন্তব্যস্থান",
+    "currentRoute": "বৰ্তমানৰ পথ",
+    "distanceRemaining": "বাকী থকা দূৰত্ব",
+    "estimatedArrival": "আনুমানিক আগমন",
+    "routeClear": "পথ পৰিষ্কাৰ",
+    "routeChanged": "পথ সলনি কৰা হৈছে",
+    "alternativeRouteAvailable": "বিকল্প পথ উপলব্ধ আছে",
+    "stopVehicle": "গাড়ী ৰখাওক",
+    "proceedWithCaution": "সাৱধানে আগবাঢ়ক",
+    "routeRestored": "পথ মুকলি কৰা হ'ল",
+    "notifications": "জাননীসমূহ",
+    "noUnread": "কোনো অপঠিত জাননী নাই"
+  },
+  "hazard": {
+    "hazardAhead": "আগত বিপদ আছে",
+    "slowDown": "বেগ কমাওক",
+    "roadBlocked": "ৰাস্তা বন্ধ আছে",
+    "landslideAhead": "আগত ভূমিস্খলন",
+    "floodedRoadAhead": "আগত বানপানীৰ ৰাস্তা",
+    "landslideDetail": "{{location}} ৰ ওচৰত প্ৰায় {{distance}} কিঃমিঃ আগত ভূমিস্খলনৰ খবৰ পোৱা গৈছে।",
+    "routeRestricted": "পথৰ চলাচলত বাধা আহিব পাৰে।",
+    "criticalRoadBlocked": "{{distance}} কিঃমিঃ আগত ৰাস্তা বন্ধ হৈ আছে। বৰ্তমানৰ পথত আগনাবাঢ়িব।",
+    "routeRestoredDetail": "{{location}} ৰ ওচৰৰ বিপদ আঁতৰোৱা হৈছে। পথ এতিয়া চলাচলৰ বাবে মুকলি।",
+    "minorObstruction": "{{location}} ৰ ওচৰত {{distance}} কিঃমিঃ আগত সামান্য বাধাৰ খবৰ পোৱা গৈছে।"
+  },
+  "status": {
+    "ACTIVE": "সক্ৰিয়",
+    "BLOCKED": "বন্ধ",
+    "RISKY": "বিপজ্জনক",
+    "RESOLVED": "সমাধান হ'ল",
+    "OPEN": "খোলা",
+    "CRITICAL": "গুৰুতৰ"
+  },
+  "actions": {
+    "viewOnMap": "মেপত চাওক",
+    "alternativeRoute": "বিকল্প পথ"
+  }
+}
