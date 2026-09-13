@@ -29,7 +29,6 @@ The North Eastern Region (NER) experiences unique logistics and transportation c
 - **Backend:** Python FastAPI
 - **AI/ML:** Python, scikit-learn, NetworkX
 - **Database & Storage:** Supabase PostgreSQL, PostGIS
-- **External APIs:** Open-Meteo API
 - **Deployment:** Vercel (FE), Render (BE)
 
 ## 👥 Team
