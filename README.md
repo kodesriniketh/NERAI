@@ -30,13 +30,6 @@ The North Eastern Region (NER) experiences unique logistics and transportation c
 - **AI/ML:** Python, scikit-learn, NetworkX
 - **Database & Storage:** Supabase PostgreSQL, PostGIS
 
-## 👥 Team
-- **Frontend Architect:** Command center dashboard (React, Vite, Tailwind).
-- **GIS & Mapping Specialist:** PostGIS, React Leaflet integration.
-- **Responsive Web Developer:** Field reporting, offline capabilities.
-- **Backend Architect:** FastAPI, Supabase, Data ingestion.
-- **AI/ML & Routing Engineer:** Route optimization (NetworkX), Predictive modeling.
-- **DevOps, QA & Product Manager:** CI/CD, testing, pitch presentation.
 
 ## ⚙️ Getting Started
 
